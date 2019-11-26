@@ -4,11 +4,12 @@ Community detection algorithms for attributed graphs (Probabilistic models)
 ## Roadmap
 Roadmap:
 
-    1. [ ] Try to understand what's going on in algorithm
-    2. [ ] Rewrite implementation from agmattr in python using snap
-    3. [ ] Prepare dataset suitable in format to cesna, but different than 1912
-    4. [ ] Prepare presentation
-    5. [ ] Write report
+    1. [x] Find working implementation
+    2. [ ] Try to understand what's going on in algorithm
+    3. [ ] Rewrite implementation from agmattr in python using snap
+    4. [ ] Prepare dataset suitable in format to cesna, but different than 1912
+    5. [ ] Prepare presentation
+    6. [ ] Write report
 
 ## Papers
 [google disk](https://drive.google.com/drive/folders/1BtWmRUWvZIepF6DBLkTN3KMiKqUmW25Z?usp=sharing)
