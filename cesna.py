@@ -40,7 +40,7 @@ class Cesna:
             step_alpha: float=0.3,
             step_beta: float=0.1,
             output_prefix: str="",
-            use_bic: float=false,
+            use_bic: bool=false,
             test_split: float=0.1) -> int:
         return -1
 
